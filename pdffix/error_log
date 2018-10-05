@@ -1,0 +1,25 @@
+[24-Jul-2018 00:06:24 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/u5293999/public_html/anting/apl/pdffix/fpdf.php on line 12
+[24-Jul-2018 00:06:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u5293999/public_html/anting/apl/pdffix/apl_koneksi.php on line 8
+[24-Jul-2018 00:06:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/u5293999/public_html/anting/apl/pdffix/penjualan.php on line 74
+[24-Jul-2018 00:06:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/u5293999/public_html/anting/apl/pdffix/penjualan.php on line 75
+[24-Jul-2018 00:06:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/u5293999/public_html/anting/apl/pdffix/penjualan.php on line 87
+[24-Jul-2018 00:06:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/u5293999/public_html/anting/apl/pdffix/penjualan.php on line 88
+[24-Jul-2018 00:06:26 UTC] PHP Notice:  Undefined variable: jumlah in /home/u5293999/public_html/anting/apl/pdffix/penjualan.php on line 92
+[24-Jul-2018 00:07:15 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/u5293999/public_html/anting/apl/pdffix/fpdf.php on line 12
+[24-Jul-2018 00:07:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u5293999/public_html/anting/apl/pdffix/apl_koneksi.php on line 8
+[24-Jul-2018 00:07:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/u5293999/public_html/anting/apl/pdffix/penjualan.php on line 74
+[24-Jul-2018 00:07:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/u5293999/public_html/anting/apl/pdffix/penjualan.php on line 75
+[24-Jul-2018 00:07:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/u5293999/public_html/anting/apl/pdffix/penjualan.php on line 87
+[24-Jul-2018 00:07:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/u5293999/public_html/anting/apl/pdffix/penjualan.php on line 88
+[24-Jul-2018 00:07:17 UTC] PHP Notice:  Undefined variable: jumlah in /home/u5293999/public_html/anting/apl/pdffix/penjualan.php on line 92
+[24-Jul-2018 00:07:29 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/u5293999/public_html/anting/apl/pdffix/fpdf.php on line 12
+[24-Jul-2018 00:07:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u5293999/public_html/anting/apl/pdffix/apl_koneksi.php on line 8
+[24-Jul-2018 00:07:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/u5293999/public_html/anting/apl/pdffix/pemasukanlain.php on line 71
+[24-Jul-2018 00:07:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/u5293999/public_html/anting/apl/pdffix/pemasukanlain.php on line 72
+[24-Jul-2018 00:07:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/u5293999/public_html/anting/apl/pdffix/pemasukanlain.php on line 80
+[24-Jul-2018 00:07:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/u5293999/public_html/anting/apl/pdffix/pemasukanlain.php on line 81
+[24-Jul-2018 00:07:31 UTC] PHP Notice:  Undefined variable: jumlah in /home/u5293999/public_html/anting/apl/pdffix/pemasukanlain.php on line 85
+[24-Jul-2018 00:09:49 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/u5293999/public_html/anting/apl/pdffix/fpdf.php on line 12
+[24-Jul-2018 00:09:52 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/u5293999/public_html/anting/apl/pdffix/fpdf.php on line 12
+[28-Jul-2018 10:30:15 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/u5293999/public_html/anting/apl/pdffix/fpdf.php on line 12
+[28-Jul-2018 10:30:18 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/u5293999/public_html/anting/apl/pdffix/fpdf.php on line 12
